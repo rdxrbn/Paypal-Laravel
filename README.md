@@ -1,4 +1,4 @@
-# Paypal Laravel
+# Paypal Laravel 5.X
 
 Simple & Easy Package to Integrate Laravel with Paypal 
 
