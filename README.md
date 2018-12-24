@@ -50,7 +50,7 @@ run the laravel project and hit
 
 ## Author
 
-* **Rooban Viveh**  - [Rooban Viveh](https://github.com/rdxrbn)
+* **Rooban Viveh**  - [Rooban Viveh](https://laracasts.com/@LaraStorm)
 
 .
 
